@@ -1,0 +1,76 @@
+{
+  "products": [
+  {
+    "id": 1,
+    "name": "TOTE MATELASSÊ BEGE U",
+    "price": 192.99,
+    "image": "img/produto-1.png",
+    "rating": 5,
+    "reviews": 29,
+    "url": "products-pages/tote_matelasse_bege_u.html"
+  },
+  {
+    "id": 2,
+    "name": "TÊNIS DISCO BÁSICO LISO",
+    "price": 46.50,
+    "image": "img/produto-2.png",
+    "rating": 5,
+    "reviews": 30,
+    "url": "products-pages/tenis_disco_basico_liso.html"
+  },
+  {
+    "id": 3,
+    "name": "T-SHIRT BOX ESTAMPADA PAMPAS",
+    "price": 99.99,
+    "image": "img/produto-3.png",
+    "rating": 5,
+    "reviews": 45,
+    "url": "products-pages/tshirt_box_estamada_pampas.html"
+  },
+  {
+    "id": 4,
+    "name": "VESTIDO LONGO FRANZIDO ESTAMPADO",
+    "price": 109.99,
+    "image": "img/produto-4.png",
+    "rating": 5,
+    "reviews": 102,
+    "url": "products-pages/vestido_longo_franzido_estampado.html"
+  },
+  {
+    "id": 5,
+    "name": "TN BOROGODO POA",
+    "price": 52.99,
+    "image": "img/produto-5.png",
+    "rating": 5,
+    "reviews": 36,
+    "url": "products-pages/tn_borogodo_poa.html"
+  },
+  {
+    "id": 6,
+    "name": "BLUSA BABADOS CROPPED",
+    "price": 96.50,
+    "image": "img/produto-6.png",
+    "rating": 5,
+    "reviews": 48,
+    "url": "products-pages/blusa_barbados_cropped.html"
+  },
+  {
+    "id": 7,
+    "name": "TOP TIRAS LISTRA",
+    "price": 70.29,
+    "image": "img/produto-7.png",
+    "rating": 5,
+    "reviews": 203,
+    "url": "products-pages/top_tiras_listra.html"
+  },
+  {
+    "id": 8,
+    "name": "GUARDA-CHUVA CHUÁ BOSQUE COLORIDO",
+    "price": 30.40,
+    "image": "img/produto-8.png",
+    "rating": 5,
+    "reviews": 67,
+    "url": "products-pages/guardachuva_chua_bosque_colorido.html"
+  }
+]
+}
